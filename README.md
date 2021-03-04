@@ -1,2 +1,2 @@
 # footy-blog-json
-JSON file for footy-blog app which will work as a Rest API
+JSON file for footy-blog app it will work as a Rest API
